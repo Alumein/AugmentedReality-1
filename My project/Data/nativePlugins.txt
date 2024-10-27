@@ -1,0 +1,2 @@
+VuforiaEngine.dll
+lib_burst_generated.dll
